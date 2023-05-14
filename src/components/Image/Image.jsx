@@ -1,4 +1,4 @@
-import imageEquilibrium from "../../../../images/image-equilibrium.jpg";
+import imageEquilibrium from "../../../images/image-equilibrium.jpg";
 import "./Image.css";
 
 const Image = () => {

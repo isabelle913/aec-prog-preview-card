@@ -11,11 +11,16 @@
 }
 
 body {
-  margin: 0;
+  margin-top: 35px;
   display: flex;
-  place-items: center;
+  justify-content: center;
   min-width: 320px;
   min-height: 100vh;
   background-color: hsl(217, 54%, 11%);
-  color: white;
+}
+.main-card {
+  background-color: hsl(216, 50%, 16%);
+  width: 375px;
+  padding: 20px;
+  border-radius: 20px;
 }

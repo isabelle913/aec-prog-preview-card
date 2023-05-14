@@ -1,5 +1,5 @@
 import "./InfoCard.css";
-import Avatar from "../../../../images/image-avatar.png";
+import Avatar from "../../../images/image-avatar.png";
 
 const InfoCard = () => {
   return (

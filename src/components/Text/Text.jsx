@@ -1,4 +1,4 @@
-import "./TextCard.css";
+import "./Text.css";
 
 const TextCard = () => {
   return (
